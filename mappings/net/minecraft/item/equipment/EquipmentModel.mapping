@@ -14,7 +14,7 @@ CLASS net/minecraft/unmapped/C_mgbzsqdv net/minecraft/item/equipment/EquipmentMo
 		FIELD f_zryleihw layers Ljava/util/Map;
 		METHOD m_etkqomyx addHumanoidLayers (Lnet/minecraft/unmapped/C_ncpywfca;)Lnet/minecraft/unmapped/C_mgbzsqdv$C_lidehtcr;
 		METHOD m_kleeaogh build ()Lnet/minecraft/unmapped/C_mgbzsqdv;
-		METHOD m_szqwgbrg addHumainoidLayers (Lnet/minecraft/unmapped/C_ncpywfca;Z)Lnet/minecraft/unmapped/C_mgbzsqdv$C_lidehtcr;
+		METHOD m_szqwgbrg addHumanoidLayers (Lnet/minecraft/unmapped/C_ncpywfca;Z)Lnet/minecraft/unmapped/C_mgbzsqdv$C_lidehtcr;
 			ARG 2 dyeable
 		METHOD m_xmfwjeqr addMainHumanoidLayer (Lnet/minecraft/unmapped/C_ncpywfca;Z)Lnet/minecraft/unmapped/C_mgbzsqdv$C_lidehtcr;
 		METHOD m_yyvtxpwa addLayers (Lnet/minecraft/unmapped/C_mgbzsqdv$C_otwvbrdf;[Lnet/minecraft/unmapped/C_mgbzsqdv$C_jyzwvubc;)Lnet/minecraft/unmapped/C_mgbzsqdv$C_lidehtcr;
